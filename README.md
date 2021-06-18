@@ -1,3 +1,4 @@
+![unnamed](https://user-images.githubusercontent.com/50443910/122556569-59549100-d044-11eb-9bf2-5cf62896ff9b.png)
 
 <img src="https://github-readme-stats.vercel.app/api?username=AndreeaNenciuCrasi&show_icons=true&theme=blue" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaNenciuCrasi&layout=compact&theme=blue" alt="languages" height="165"></p>
 
